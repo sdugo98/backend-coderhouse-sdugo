@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "filesystem": "^1.0.1",
     "node": "^21.2.0"
   }
 }
