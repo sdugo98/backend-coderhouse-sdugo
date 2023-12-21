@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "title": "banana",
+      "description": "fruta",
+      "price": 150,
+      "img": "noimage",
+      "code": "abc125",
+      "stock": 30
+    },
+    {
+      "id": 2,
+      "title": "manzana",
+      "description": "fruta",
+      "price": 200,
+      "img": "noimage",
+      "code": "abc124",
+      "stock": 30
+    },
+    {
+      "id": 3,
+      "title": "Fideos",
+      "description": "fruta",
+      "price": 200,
+      "img": "noimage",
+      "code": "abc123",
+      "stock": 30
+    },
+    {
+      "id": 4,
+      "title": "zapallo",
+      "description": "verdura",
+      "price": 110,
+      "img": "noimage",
+      "code": "abc128",
+      "stock": 30
+    },
+    {
+      "id": 5,
+      "title": "ciruela",
+      "description": "fruta",
+      "price": 220,
+      "img": "noimage",
+      "code": "abc129",
+      "stock": 30
+    },
+    {
+      "id": 6,
+      "title": "pera",
+      "description": "fruta",
+      "price": 180,
+      "img": "noimage",
+      "code": "abc126",
+      "stock": 30
+    },
+    {
+      "id": 7,
+      "title": "lechuga",
+      "description": "verdura",
+      "price": 130,
+      "img": "noimage",
+      "code": "abc127",
+      "stock": 30
+    },
+    {
+      "id": 8,
+      "title": "sandia",
+      "description": "fruta",
+      "price": 280,
+      "img": "noimage",
+      "code": "abc130",
+      "stock": 30
+    },
+    {
+      "id": 9,
+      "title": "melon",
+      "description": "fruta",
+      "price": 350,
+      "img": "noimage",
+      "code": "abc131",
+      "stock": 30
+    },
+    {
+        "id": 10,
+        "title": "durazno",
+        "description": "fruta",
+        "price": 380,
+        "img": "noimage",
+        "code": "abc132",
+        "stock": 30
+      }
+  ]
